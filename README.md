@@ -6,16 +6,16 @@ Prime numbers are numbers that have only 2 factors: 1 and themselves. For exampl
 A whole number greater than 1 that can not be made by multiplying other whole numbers. Example: 5 is a prime number. We cannot multiply 2, 3 or 4 together to make 5.
 
 
-#### compile java program
+#### Compile java program
 
 javac ClassName.java
 
 
-#### Run Java Program
+#### Run java Program
 
 java ClassName
 
-### findPrime function
+### findPrime() function
 
 
 this function determine "number" prime or not. the number is prime it will return the corresponding number otherwise return zero.
@@ -38,9 +38,9 @@ public static int findPrime(int number)
 
 ### Response
 
-javac Prime.java
+>compile java program : javac Prime.java
 
-java Prime
+>run java program : java Prime
 
 ```
 The numbers are :
