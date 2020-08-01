@@ -76,7 +76,7 @@ public static int findPrime(int number)
 
 >run java program : java Prime
 
-```
+```java
 The numbers are :
 2
 3
