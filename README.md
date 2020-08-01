@@ -15,7 +15,7 @@ javac ClassName.java
 
 java ClassName
 
-### Response
+### findPrime function
 
 
 this function determine "number" prime or not. the number is prime it will return the corresponding number otherwise return zero.
@@ -35,5 +35,41 @@ public static int findPrime(int number)
         return flag ? 0 : number;
     }
 ```
+
+### Response
+
+javac Prime.java
+
+java Prime
+
+```
+The numbers are :
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+53
+59
+61
+67
+71
+73
+79
+83
+89
+97
+```
+
 
 
